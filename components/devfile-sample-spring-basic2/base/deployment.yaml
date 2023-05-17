@@ -43,7 +43,7 @@ spec:
             memory: 60Mi
             storage: 400Mi
           requests:
-            cpu: 700m
+            cpu: 600m
             memory: 200Mi
             storage: 200Mi
 status: {}
